@@ -1,3 +1,7 @@
+# How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
+
+- I'm currently studying Software Engineering
+- I'm always looking forward to collaborate on Social and Educational impact open source projects
 <!-- Actual text -->
 You can find me on [LinkedIn ![LinkedIn][2.2]][2].
 <!-- Icons -->
