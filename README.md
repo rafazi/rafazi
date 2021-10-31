@@ -8,14 +8,16 @@ How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
 - I'm currently studying Software Engineering
 - I'm always looking forward to collaborate on Social and Educational impact open source projects
 
-<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</h3>
+<img width="250" align="right" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif">
+
+<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h3>
 <p>🆙 Enrolled at Launch School, focusing on Back-End </p>
 <p>👾 I’m currently on career transition (former lawyer)</p>
 <p>👨‍💻 All of my projects are available <a href="https://TENHOQUECRIARUMSITE.com/">🔗 here</a></p>
 
 #
 
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h2 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30"></h2>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
