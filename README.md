@@ -12,6 +12,7 @@ How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
 <p>🆙 Enrolled at Launch School, focusing on Back-End </p>
 <p>👾 I’m currently on career transition (former lawyer)</p>
 <p>👨‍💻 All of my projects are available <a href="https://TENHOQUECRIARUMSITE.com/">🔗 here</a></p>
+
 #
 
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -28,6 +29,7 @@ How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
+
 ##
 <h3 align="left">Connect with me:</h3>
 <div>  
