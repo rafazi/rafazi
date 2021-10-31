@@ -36,13 +36,15 @@ How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
   <a href="https://www.linkedin.com/in/rafaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:rafazizi@hotmail.com"><img src="https://img.shields.io/badge/You%20can%20always%20find%20me%20at%20my%3A%20-E--MAIL-yellowgreen" target="_blank"></a>
  </div>
-<br>
+
 <div>
   <a href="https://github.com/rafazi">
   <img height="180em" src="[![rafazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafazi&theme=onedark&show_icons=false)](https://github.com/rafazi/github-readme-stats)"/>
  </div>
-<br>
+
   
+
+##
 ![](https://komarev.com/ghpvc/?username=your-github-rafazi&color=ff69b4&style=flat&label=visitors)
 <!-- Actual text -->
 [![][2.2]][2]
