@@ -6,8 +6,9 @@ How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
 </h2>
 <pre>
 - I'm currently studying Software Engineering
-- I'm always looking forward to collaborate on Social and Educational impact open source projects (THE WIRE &#8595;)
+- I'm always looking forward to collaborate on Social and Educational impact open source projects
 </pre>
+<p align="right">(THE WIRE &#8595;)</p>
 <img width="250" align="right" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif">
 
 <h3 align="left">A little more about me...</h3>
