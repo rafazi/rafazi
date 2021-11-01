@@ -11,10 +11,11 @@ How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
 <p align="right">(THE WIRE &#8595;)</p>
 <img width="250" align="right" src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif">
 
-<h3 align="left">A little more about me...</h3>
+<h3 align="left">🔗 A little more about me... 🔗</h3>
 <p>🆙 Enrolled at Launch School, focusing on Back-End </p>
 <p>👾 I’m currently on career transition (former lawyer)</p>
-<p>👨‍💻 All of my projects are available <a href="https://TENHOQUECRIARUMSITE.com/">🔗 here</a></p>
+<p>👨‍💻 Feel free to ask for help ou reach out to me about anything</p>
+
 
 
 
