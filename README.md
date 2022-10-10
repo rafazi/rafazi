@@ -31,7 +31,7 @@ How you doin'? I'm Rafa Zimmermann, and so happy to meet you!
 <h3 align="left">Connect with me:</h3>
 <div>  
   <a href="https://www.linkedin.com/in/rafazi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:rafazizi@hotmail.com"><img src="https://img.shields.io/badge/You%20can%20always%20find%20me%20at%20my%20e--mail%3A-rafazizi%40hotmail.com-brightgreen" target="_blank"></a>
+
  <br><br>
   <br><br>
  </div>
